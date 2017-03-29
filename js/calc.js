@@ -14,6 +14,7 @@
 			var needNumArr=need.split(",");
 			//   必不选数字数组 例：[1,35]
 			var unNeedNumArr=unneed.split(",");
+			
 			// 计算规则。。。
 			alert("计算中")
 
